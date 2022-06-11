@@ -9,32 +9,30 @@
         <style>
             .container {
                 display: flex;
-                flex-direction: column;
-                /* align-items: center; */
                 flex-wrap: wrap;
+                /* justify-content: center; */
             }
-            .grid {
-                display: flex;
+            div.gallery {
+              margin: 5px;
+              border: 1px solid #ccc;
+              width: 150px;
+              /* height: 250px; */
             }
-            .card {
-                padding: 3px;
-                margin: 0 5px;
-                text-align: center;
-                border: 1px solid #eaeaea;
+            
+            div.gallery:hover {
+              border: 1px solid #777;
             }
-            .photos {
-                width: 100%;
-                max-width: 200px;
-                height: auto;
+            
+            div.gallery img {
+              width: 100%;
+              height: auto;
             }
-            a {
-                color: black;
-                font-family: sans-serif;
-            }
-            @media (max-width: 430px) {
-                .photos {
-                    max-width: 120px;
-                }
+            
+            div.title {
+              padding: 15px;
+              text-align: center;
+              color: black;
+              font-family: sans-serif;
             }
         </style>
     </head>
@@ -47,48 +45,37 @@
         
         <h3 style="margin-top: 50px;font-family: system-ui;">1/1 Artworks</h3>
         <div class="container">
-            <div class="grid">
-                <div class="card">
-                    <img src="https://ieldx-caaaa-aaaah-qcwbq-cai.raw.ic0.app/" alt="Trippy IC CCC" class="photos">
-                    <p><a href="https://skeh5-daaaa-aaaai-aar4q-cai.raw.ic0.app/#/detail/alone/33/ieldx-caaaa-aaaah-qcwbq-cai" target="_blank" rel="noopener noreferrer">Trippy IC Pixel Edition</a></p>
-                </div>
-                <div class="card">
-                    <img src="https://kmnkr-gaaaa-aaaai-qcmuq-cai.raw.ic0.app/10000" alt="Cronic Punk" class="photos">
-                    <p><a href="https://nftanvil.com/nftaa4nqmjab1lw9cq3b" target="_blank" rel="noopener noreferrer">Flower Power DAO Cronic</a></p>
-                </div>
-                <div class="card">
-                    <img src="https://l5huo-6iaaa-aaaai-qcmra-cai.raw.ic0.app/4550000" alt="Singularity System" class="photos">
-                    <p><a href="https://nftanvil.com/nfta85qyjd2lzrrjqzbt" target="_blank" rel="noopener noreferrer">Singularity System</a></p>
-                </div>
+            <div class="gallery">
+                <a target="_blank" href="https://skeh5-daaaa-aaaai-aar4q-cai.raw.ic0.app/#/detail/alone/33/ieldx-caaaa-aaaah-qcwbq-cai">
+                    <img src="https://ieldx-caaaa-aaaah-qcwbq-cai.raw.ic0.app/" alt="Trippy Internet Computer">
+                    <div class="title">Trippy IC Pixel Edition</div>
+                </a>
+            </div>
+            <div class="gallery">
+                <a target="_blank" href="https://nftanvil.com/nftaa4nqmjab1lw9cq3b">
+                    <img src="https://kmnkr-gaaaa-aaaai-qcmuq-cai.raw.ic0.app/10000" alt="FP DAO Cronic">
+                    <div class="title">Unofficial FP DAO Cronic</div>
+                </a>
+            </div>
+            <div class="gallery">
+                <a target="_blank" href="https://nftanvil.com/nfta85qyjd2lzrrjqzbt">
+                    <img src="https://l5huo-6iaaa-aaaai-qcmra-cai.raw.ic0.app/4550000" alt="Singularity System">
+                    <div class="title">Singularity System</div>
+                </a>
             </div>
         </div>
 
         <h3 style="margin-top: 50px;font-family: system-ui;">Collections</h3>
         <div class="container">
-            <div class="grid">
-                <div class="card">
-                    <img src="https://s10.gifyu.com/images/nuclear_GIF.gif" alt="Nuclear Radio" class="photos">
-                    <p><a href="https://h5aet-waaaa-aaaab-qaamq-cai.raw.ic0.app/post/2045163/nuclear-radio--an-nft-mixtape-visualizer-collect" target="_blank" rel="noopener noreferrer">Nuclear Radio</a></p>
-                </div>
+            <div class="gallery">
+                <a target="_blank" href="https://h5aet-waaaa-aaaab-qaamq-cai.raw.ic0.app/post/2045163/nuclear-radio--an-nft-mixtape-visualizer-collect">
+                    <img src="nuclear.gif" alt="Nuclear Radio">
+                    <div class="title">Nuclear Radio</div>
+                </a>
             </div>
         </div>
 
-        
         <p>&#8734;</p>
-
-        <!-- <footer>
-            Follow me on Web3 
-            <span>
-                 <a href="https://h5aet-waaaa-aaaab-qaamq-cai.raw.ic0.app/u/usertest" target="_blank" rel="noopener noreferrer">DSCVR</a>
-            </span> 
-  
-            <span>
-                 <a href="https://az5sd-cqaaa-aaaae-aaarq-cai.ic0.app/u/lucas" target="_blank" rel="noopener noreferrer">Distrikt</a>
-            </span> 
-     
-            <span>
-                 <a href="https://dwqte-viaaa-aaaai-qaufq-cai.ic0.app/@lucas" target="_blank" rel="noopener noreferrer">DSocial</a>
-            </span> 
-        </footer> -->
+    
     </body>
 </html>
