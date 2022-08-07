@@ -59,8 +59,8 @@
        transform="scale(0.26458333)" >
        <animate
             attributeName="fill"
-            values="#ff8c00;#96bfe6;#ff8c00;#ff8c00"
-            dur="0.8s"
+            values="#ffff00;#ffab00;#ffff00;#ffff00"
+            dur="0.7s"
             repeatCount="indefinite"/>
     </path>
   </g>

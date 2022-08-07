@@ -32,10 +32,10 @@ body {
     aspect-ratio: 16 / 9;
     width: 100%;
 }
-.work {
-    /* display: flex; */
+/* .work {
+    display: flex;
     margin-top: 20px;
-}
+} */
 .link {
     margin: 5px;
     padding: 5px;
