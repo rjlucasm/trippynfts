@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="100"
+   viewBox="0 0 264.58333 26.458334"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="snail.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.87051361"
+     inkscape:cx="684.18009"
+     inkscape:cy="107.23541"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#aaffee;stroke-width:0.274892;stroke-linecap:round;paint-order:markers stroke fill;stop-color:#000000"
+       id="rect835"
+       width="264.58334"
+       height="26.458334"
+       x="-4.2529296e-06"
+       y="-4.6911623e-07" />
+    <rect
+       style="fill:#008000;stroke-width:0.145369;stroke-linecap:round;paint-order:markers stroke fill;stop-color:#000000"
+       id="rect833"
+       width="264.58334"
+       height="2.1166668"
+       x="-4.2529296e-06"
+       y="24.341667" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.96743px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.224186"
+       x="-13.283002"
+       y="22.404552"
+       id="text839"><animateTransform
+         id="first"
+         attributeName="transform"
+         attributeType="XML"
+         type="translateX"
+         begin="0;second.end"
+         from="0"
+         to="280"
+         dur="60s"
+         fill="freeze" /><tspan
+         sodipodi:role="line"
+         id="tspan838"
+         x="-13.283002"
+         y="22.404552">🐌</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.96743px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.224186"
+       x="-277.89182"
+       y="22.404552"
+       id="text843"
+       transform="scale(-1,1)"><animateTransform
+         id="second"
+         attributeName="transform"
+         attributeType="XML"
+         type="translateX"
+         begin="first.end"
+         from="-20"
+         to="280"
+         dur="60s"
+         fill="freeze"
+         additive="sum" /><tspan
+         sodipodi:role="line"
+         id="tspan836"
+         x="-277.89182"
+         y="22.404552">🐌</tspan></text>
+  </g>
+</svg>
